@@ -1,0 +1,15 @@
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Service.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Service.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Data.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Entity.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.ViewModel.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\EntityFramework.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Data.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Data.dll.config
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.Entity.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\MyCodeFirst.ViewModel.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\bin\Debug\EntityFramework.xml
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\obj\Debug\MyCodeFirst.Service.csprojResolveAssemblyReference.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\obj\Debug\MyCodeFirst.Service.csproj.CoreCompileInputs.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\obj\Debug\MyCodeFirst.Service.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Service\obj\Debug\MyCodeFirst.Service.pdb

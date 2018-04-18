@@ -1,0 +1,5 @@
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.ViewModel\bin\Debug\MyCodeFirst.ViewModel.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.ViewModel\bin\Debug\MyCodeFirst.ViewModel.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.ViewModel\obj\Debug\MyCodeFirst.ViewModel.csproj.CoreCompileInputs.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.ViewModel\obj\Debug\MyCodeFirst.ViewModel.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.ViewModel\obj\Debug\MyCodeFirst.ViewModel.pdb

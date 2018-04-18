@@ -1,0 +1,5 @@
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Entity\bin\Debug\MyCodeFirst.Entity.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Entity\bin\Debug\MyCodeFirst.Entity.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Entity\obj\Debug\MyCodeFirst.Entity.csproj.CoreCompileInputs.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Entity\obj\Debug\MyCodeFirst.Entity.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Entity\obj\Debug\MyCodeFirst.Entity.pdb

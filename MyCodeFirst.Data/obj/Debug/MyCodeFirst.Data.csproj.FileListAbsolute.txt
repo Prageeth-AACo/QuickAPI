@@ -1,0 +1,13 @@
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\MyCodeFirst.Data.dll.config
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\MyCodeFirst.Data.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\MyCodeFirst.Data.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\EntityFramework.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\MyCodeFirst.Entity.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\MyCodeFirst.Entity.pdb
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\EntityFramework.xml
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\obj\Debug\MyCodeFirst.Data.csprojResolveAssemblyReference.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\obj\Debug\MyCodeFirst.Data.csproj.CoreCompileInputs.cache
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\obj\Debug\MyCodeFirst.Data.dll
+E:\MyWorkings\MyProjects\MyCodeFirst\MyCodeFirst.Data\obj\Debug\MyCodeFirst.Data.pdb
